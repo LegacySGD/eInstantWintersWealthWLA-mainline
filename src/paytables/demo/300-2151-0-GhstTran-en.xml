@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="winningNumbers" value="Lucky Numbers"/>
+<phrase key="yourNumbers" value="Your Numbers"/>
+<phrase key="instantWin" value="Instant Win (Gold Bars)"/>
+<phrase key="youMatched" value="Matched"/>
+<phrase key="boardNumbers" value="Number"/>
+<phrase key="boardValues" value="Prize Value"/>
+<phrase key="BUY" value="Buy"/>
+<phrase key="TRY" value="Try"/>
+<phrase key="wagerType" value="Wager Type"/>
+<phrase key="bonus" value="Bonus"/>
+<phrase key="N" value="No Win"/>
+<phrase key="X" value="Instant Win 1"/>
+<phrase key="Y" value="Instant Win 2"/>
+<phrase key="Z" value="Instant Win 3"/>
+<phrase key="bonusPrize" value="Bonus Prize"/>
+</translation>

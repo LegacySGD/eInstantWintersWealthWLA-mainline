@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Winters Wealth WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="WintersWealth" enableFreeSpin="N" clientversion="1.0" gameId="300-2151-0" />
+	<GameClient name="Winters Wealth WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="WintersWealth" enableFreeSpin="N" clientversion="1.0" gameId="300-2151-0" />
+	<GameClient name="Winters Wealth WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="WintersWealth" enableFreeSpin="N" clientversion="1.0" gameId="300-2151-0" />
+</ClientConfig>
